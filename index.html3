@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Class 5</title>
+
+    <style>
+        h1{
+            color:blue ;
+        }
+        h2{
+            color:rgb(119, 0, 255);
+        }
+        h3{
+            color:rgb(155, 14, 60);
+          }
+        ul,ol{
+            color:blueviolet;
+        }
+ </style>  
+</head>
+<h1>This is List</h1>
+<body>
+<p>HELLO WORLD</p>
+<a href="#">Google</a>
+<a href="#">Facebook</a>
+</body>
+<body>
+<ol type="i">
+    <li>Item01
+        <ul type="square">
+            <li>Sub-Item01
+                <ol>
+                    <li>Child-Item01
+                        <ul>
+                            <li>2nd Child item01</li>
+                            <li>2nd Child item02</li>
+                        </ul>
+                    </li>
+                    <li>Child-Item02</li>
+                    <li>Child-Item03</li>
+                </ol>
+            </li>
+        </ul>
+    </li>
+</ol>
+<ul type="disc">
+    <li>Item01</li>
+    <li>Item02</li>
+    <li>Item03</li>
+</ul>
+
+
+
+</body>
